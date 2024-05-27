@@ -1,3 +1,7 @@
+## Project Status
+
+This project is currently a work in progress. We will be updating it periodically as we continue to implement new sorting algorithms from the book "Introduction to Algorithms". Please feel free to check back regularly for updates.
+
 # Sorting Algorithms in Python
 
 This repository contains Python implementations of various sorting algorithms as described in the book "Introduction to Algorithms" by Cormen, Leiserson, Rivest, and Stein. The algorithms are implemented in a clear and concise manner, with detailed comments explaining the logic behind each step.
