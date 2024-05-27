@@ -4,7 +4,7 @@ This project is currently a work in progress. We will be updating it periodicall
 
 # Sorting Algorithms in Python
 
-This repository contains Python implementations of various sorting algorithms as described in the book "Introduction to Algorithms" by Cormen, Leiserson, Rivest, and Stein. The algorithms are implemented in a clear and concise manner, with detailed comments explaining the logic behind each step.
+This repository contains Python implementations of various optimization algorithms as described in the book "Introduction to Algorithms" by Cormen, Leiserson, Rivest, and Stein. The algorithms are implemented in a clear and concise manner, with detailed comments explaining the logic behind each step.
 
 ## Algorithms Included
 
